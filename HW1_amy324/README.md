@@ -14,6 +14,8 @@ Creation of PUI2016_amy324 and merge with GitHub done with help of Prof. Federic
 Creation of environmental variable and alias on .bashrc done with help of Victor Sette
 Creation of directory HW1_amy324 and syncronizing with GitHub done by myself
 Images: ![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
+Images: ![Terminal pwd screen - amy324](Terminal%20pwd%20screen%20-%20amy324.JPG)
+
 
 
 
