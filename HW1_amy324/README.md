@@ -20,8 +20,9 @@ Creation of environmental variable and alias on .bashrc done with help of Victor
 
 Creation of directory HW1_amy324 and syncronizing with GitHub done by myself
 
-Images: ![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
-Images: ![Terminal pwd screen - amy324](Terminal%20pwd%20screen%20-%20amy324.JPG)
+![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
+
+![Terminal pwd screen - amy324](Terminal%20pwd%20screen%20-%20amy324.JPG)
 
 
 
