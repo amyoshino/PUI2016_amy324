@@ -6,6 +6,7 @@ It describes the evolution on week 1 assignments during work.
 
 Assignment 1 - Finish Lab 1
 Creation of gittest_amy324 folder and myfirstfile.txt - done by myself
+
 Merge conflict sollution done by mylself with help of Scott Smith and Achilles Saxby
 Working on a fork: done with Scott Smith 
 
