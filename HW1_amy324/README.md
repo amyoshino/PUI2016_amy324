@@ -12,3 +12,4 @@ Assignment 2:
 - Modifiying .bashrc file, creating an environmental variable and creating alias was done with help from Victor Sette: used command export to create environmental variable $PUI2016 and alias command to get me into UI2016_amy324 directory just typing PUI2016.
 - Created directory HW1_amy324 by myself with mkdir (added and then push)
 - ![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
+- ![Terminal pwd screen - amy324](Terminal%20pwd%20screen%20-%20amy324.JPG)
