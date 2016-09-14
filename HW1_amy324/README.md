@@ -13,3 +13,7 @@ Assignment 2:
 - Created directory HW1_amy324 by myself with mkdir (added and then push)
 - ![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
 - ![Terminal pwd screen - amy324](Terminal%20pwd%20screen%20-%20amy324.JPG)
+
+Assignment 3 (extra):
+- Done by myself.
+- Did until creating ReprRandAll matrix.
