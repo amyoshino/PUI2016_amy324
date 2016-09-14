@@ -8,7 +8,7 @@ Assignment 1:
 - Fork and pull request done with Scott Smith and Sunny Kulkarni: Forked scotts / Sunny page (sightnd / sunnyk82) and messed with his myfirstfile.txt. Used the editor to manage changes made by Scott on my myfirstfile.txt.
 
 Assignment 2:
-- Creating folder HW1_amy324 and sync with Github (creating repo on Github) done by myself
+- Creating folder HW1_amy324 and sync with Github (creating repo on Github) done by myself - helped Sunny Kulkarni to set up this part
 - Modifiying .bashrc file, creating an environmental variable and creating alias was done with help from Victor Sette: used command export to create environmental variable $PUI2016 and alias command to get me into UI2016_amy324 directory just typing PUI2016.
 - Created directory HW1_amy324 by myself with mkdir (added and then push)
 - ![Bashrc screen - amy324](Bashrc%20screen%20-%20amy324.JPG)
