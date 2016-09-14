@@ -5,7 +5,7 @@ Week 1 Assignments
 Assignment 1:
 - Creating gittest_amy324 folder and myfirstfile.txt done by myself: used mkdir to create folder, create repo on GitHub and used git remote add to push the existing repo;
 - Solving merge conflicts solve by myself with help from Achilles Saxby: used the editor to see what was wrong and solved conflict;
-- Fork and pull request done with Scott Smith: Forked scotts page (sightnd) and messed with his myfirstfile.txt. Used the editor to manage changes made by Scott on my myfirstfile.txt.
+- Fork and pull request done with Scott Smith and Sunny Kulkarni: Forked scotts / Sunny page (sightnd / sunnyk82) and messed with his myfirstfile.txt. Used the editor to manage changes made by Scott on my myfirstfile.txt.
 
 Assignment 2:
 - Creating folder HW1_amy324 and sync with Github (creating repo on Github) done by myself
