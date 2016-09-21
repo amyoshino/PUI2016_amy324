@@ -28,8 +28,5 @@ I had to replace a string by a number to represent it on the plot. (10 on x-axis
 Assignment 3 - Extra Credit:
 - Used the data found on: /gws/open/NYCOpenData/nycopendata/data/zkky-n5j3/1414246141/zkky-n5j3 regarding elevation of water reservatory through the years of 2005 - 2010
 - Folowed all steps from Assignment 3 plus function pd.to_datetime to transform the data to a acceptable format to plot
-
 - Got help on plotting and date formating from Pooneh Famaly
-- 
 
-TEst
