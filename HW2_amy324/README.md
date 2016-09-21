@@ -1,4 +1,4 @@
-Author: Adriano Yoshino - amy324
+Author: Adriano M. Yoshino - amy324@nyu.edu
 
 Week 2 Assignments
 
