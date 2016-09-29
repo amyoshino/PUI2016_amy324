@@ -14,4 +14,9 @@ higher than the ratio of Customers biking over weekends to Customers biking on w
 Assignment 3:
 - Based on information obtained on last class, we have the old rout mean and standart deviation values.
 - We calculated the mean and std to the new route and calculated z
+- The idea is: Does this new route improved the commute time?
+- Null Hypothesis: The commute time is longer or same comparing to the previous route, i.e., mean_time_new >= mean_time_old
+- Alternative Hypothesis: The commute time is shorter compared to the old route. mean_time_new < mean_time_old
 - Hour test reject the null hypothesis.
+
+Observation: Since the deadline is moved to 23:59, I made some improvements on this homework. If not allowed, please use the 5pm version.
