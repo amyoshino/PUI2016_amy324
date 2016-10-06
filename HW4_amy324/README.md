@@ -15,7 +15,11 @@ Assignment 2:
 |CORRELATION|1, Income Inequality|Continuous|1,rate of antimicrobial resistance for 4 bacterias | continuous|none|none |Is income inequality correlated to antimicrobial resistance? if yes,how strong it is?|Antimicrobial resistance in low income inequality is equal to Antimicrobial resistance in high income inequality|0.05|http//journals.plos.org/plosone/article?id=10.1371/journal.pone.0073115|
 
 Assignment 3:
+- Done by myself with help from Fernando Melchor
 
+Assignment 4:
+- Done by myself studying tests
+- test choosen for extra assignment is KS
 
 
 
