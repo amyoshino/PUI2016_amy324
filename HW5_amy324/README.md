@@ -9,7 +9,7 @@ Assignment 2:
 - I followed the instructions of the skeleton notebook provided by Dr. Bianco.
 - I worked as a group in this assignment with Victor Sette, Fernando Melchor and Kristi Korsberg.
 - Plot scatter matrix by myself
-- Plot the man total media income x women total media income divided by race
+- Plot the men total media income x women total media income divided by race
 - Fit the points on a linear regression and find out a model to predict the women salary based on men salary.
 
 Assignment 3:
