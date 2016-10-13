@@ -5,6 +5,8 @@ Assignment 1:
 and AD test to verify the proximity to normal and exponential distributions.
 - The results obtained are that the age distribution is not close to any distributions teste (Normal, Poisson, Exponential).
 
+Extra credit: Used Googl Geolocation API to find out the boroughs. Used KS test and AD test to manhattan age distribution
+
 Assignment 2:
 - I followed the instructions of the skeleton notebook provided by Dr. Bianco.
 - I worked as a group in this assignment with Victor Sette, Fernando Melchor and Kristi Korsberg.
