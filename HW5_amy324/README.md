@@ -19,26 +19,26 @@ Assignment 3: Practice formulating the null hypothesis
 
 Here is a brief resume of the notebook created as Homework_5_assignment_3.ipynb
 
-1. Do diets help lose more fat than the exercise?
+#### 1. Do diets help lose more fat than the exercise?
 - Assuming Test and control sample have the same habits and similar health conditions, the Null Hypothesis is:
 - People that exercise and don't diet (keep the previous regular eating habits) lose same or more % of fat that 
 those who diets (change eating habits to a diet focused on losing fat) and don't exercise. Significance level p = 0.05.
 - Alternative Hypothesis:
 People within the experimental setup who diet and don't exercise lose signifficantly more % of 
 fat that those who exercise but don't diet.
-2. Do American trust the president?
+#### 2. Do American trust the president?
 - The Null Hypothesis is:
 American Poll Surveyed peole who said 'no' (don't trust) is more or equal to American Survered people who said 'yes' 
 (trust). Significance level p=0.05
 - Alternative Hypothesis:
 American Poll Surveyed peole who said 'yes' (trust) is signifficantly higher than American Survered people who said 'no' (don't trust).
-3. Effectiveness of nicotine patches to quit smoking.
+#### 3. Effectiveness of nicotine patches to quit smoking.
 - The Null Hypothesis is:
 The cessation rates for smokers randomly assigned to use placebo patch is higher or equal to cessation 
 rates for smokers randomly assigned to use nicotine patch. Significance level p=0.05
 - The Alternative Hypothesis is:
 The cessation rates for smokers randomly assigned to use nicotine patch is signifficantly higher than cessation rates for smokers randomly assigned to use placebo patch.
-4. Quantify the danger of smoking for pregnant women.
+#### 4. Quantify the danger of smoking for pregnant women.
 - The Null Hypothesis is:
 The mean of measured IQ of children at ages 1, 2, 3 and 4 born from smoker mothers is higher or equal to children at same ages born from non smoker mothers. Significance level p = 0.05
 - The Alternative Hypothesis is:
