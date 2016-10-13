@@ -20,7 +20,7 @@ Assignment 3: Practice formulating the null hypothesis
 Here is a brief resume of the notebook created as Homework_5_assignment_3.ipynb
 
 #### 1. Do diets help lose more fat than the exercise?
-- Assuming Test and control sample have the same habits and similar health conditions, the Null Hypothesis is:
+Assuming Test and control sample have the same habits and similar health conditions, the Null Hypothesis is:
 - People that exercise and don't diet (keep the previous regular eating habits) lose same or more % of fat that 
 those who diets (change eating habits to a diet focused on losing fat) and don't exercise. Significance level p = 0.05.
 - Alternative Hypothesis:
