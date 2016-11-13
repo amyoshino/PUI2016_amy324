@@ -1,42 +1,19 @@
-# PUI2016 HW 8 for Thursday session, HW9 for Tuesday session. 
-## But please name your directory HW9_\<netID>
+Author: Adriano M. Yoshino
 
-# IMPORTANT NOTE: from this homework on you are graded on [PEP8](https://www.python.org/dev/peps/pep-0008/) compliance as well!
-Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
+Assignment 1 (only assignment)
 
+Task 1:
+- For this task I started the analysis loading MTA data and creating some variables to collapse Rides and Stations
+- The first analysis is about event detection which we could find Hurricane Sandy as the firs event detected as it made the rides go more than 3 standart deviations away from the mean
+- Excluding this outlier (Sandy), we could find another interesting event - NYC 2010 Bizzard
 
-## ASSIGNED READING:
+Task 2:
+- On this task we find out wich ridership types is stationary or not, of those who are not stationary, we found out wich one is increasing and wich one is decreasing.
+- I plotted out the number of rides x timeframe for each type of ridership
+- I found out that: The type of ridership that increased more is Senior Citizen / Disabled and The type of ridership that decreased more is Monthly
 
-1. I already assigned this, but once again, now that you have written a lot of notebooks. This is how you write a notebook integrating critical thinking and inference with code:
-
-Reading: an excellent analysis of time series 
-by Jake Vander Plas
-(UW e-science center)
-
-https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/
-
-
-
-
-2. Technical reading on statsmodels time analysis tools. Get through ARMA (first part) to get an idea of how such a document would be written, and of how to choose the model parameters for ARMA and ARIMA models.
-
-http://conference.scipy.org/proceedings/scipy2011/pdfs/statsmodels.pdf
-
-
-# Submission Info:
-
-
-For Assignment 1 (and only): work in groups as usal, and you are encouraged to work in groups. Create a HW9_<nyuID> directory in your PUI2016_<nyuID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.
-
-Submit Assignment 1 as a notebook. **Please dont just download my notebook, leave instructions in and fill in code cells: make it a presentation, comment on what you see, in English, with full sentences, and use critical thinking!!** 
-
-Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) you will be penalized.
-
-
-## ASSIGNMENTS:
-
-###  Assignment 1 (and only)
-
-### TIME SERIES ANALYSIS: Goal: Find outliers, trends and periodicity in the MTA turnstile data
-### follow the instructions in 
-https://github.com/fedhere/PUI2016_fb55/blob/master/HW9_fb55/subway_timeseries_instructions.ipynb
+Task 3:
+- Here the idea here is to find the highest powers on the 4th period (48.5 weeks), as it is the closest to 52 weeks. To do that, let's create a threshold and the stations that are over this threshold will be printed.
+- The highest 4 "powers" are found on stations [32, 150, 194, 327]
+- We noticed the clear yearly pattern on each of those stations
+- I had help on this task from Fernando Melchor (lmf445)
