@@ -24,4 +24,4 @@ Attention points:
 - By Tufte rules: I could notice some 'Chart Junk' - the excessive and unnecessary use of graphical effects
 - A good example about the last point is: Remove to improve - http://i.imgur.com/RzYaLZg.gif
 
-General comment: the plot do it's job by representing what it are made to represent, but it has a little bit of extra and not needed informations, specially on the trying to make it visually more interesting. The axis labels can lead to a confusing interpretation about what it is representing, and finally, there's no caption to explain what it is trying to represent and what interesting can be observed on this plot. 
+**General comment:** the plot do it's job by representing what it are made to represent, but it has a little bit of extra and not needed informations, specially on the trying to make it visually more interesting. The axis labels can lead to a confusing interpretation about what it is representing, and finally, there's no caption to explain what it is trying to represent and what interesting can be observed on this plot. 
