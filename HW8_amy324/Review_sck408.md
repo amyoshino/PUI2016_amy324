@@ -6,7 +6,7 @@
 
 I am assigned to review the following plot, made by **sck408**, and can be found at http://nbviewer.jupyter.org/github/skulkarni2/PUI2016_sck408/blob/master/HW7_sck408/HW7_sck408.ipynb
 
-* This plot is interactive, to see better follow the link above
+* This plot is interactive, to see it better follow the link above.
 
 ![sck408_plot - amy324](sck408_plot_review.PNG)
 
