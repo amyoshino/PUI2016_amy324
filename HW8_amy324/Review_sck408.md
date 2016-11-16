@@ -19,7 +19,7 @@ Good points:
 - Intuitive and exciting. It make you play for a while during the plot exploration.
 
 Attention points:
-- THe information provided when hover is the year and ratio, but I think it would be interesting if you show absolute numbers as well (unemployed people and total population). The ratio can be clarifiying at some moments, but it can be tricky in some situations, for example, two months of different years can have the same ratio, but totally different absolute values.
+- The information provided while hovering is the year and ratio, but I think it would be interesting if you show absolute numbers as well (unemployed people and total population). The ratio can be clarifiying at some moments, but it can be tricky in some situations, for example, two months of different years can have the same ratio, but totally different absolute values.
 - The colors choosen by this plot is not friendly to a speciffically kind of color blindness, the **Protanopia – Red-Green Color Blindness**. Here is a print of how a person with this type of color blindness can see your plot, you can notice that the dark green and dark red are almost the same.
 ![sck408_plot cb - amy324](sck408_plot_review_cb.PNG)
 
