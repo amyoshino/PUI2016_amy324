@@ -10,19 +10,20 @@ I am assigned to review the following plot, made by **sck408**, and can be found
 
 ## Review
 
-My first impression about this plot is that I find it attractive, simple but probably not functional. Studying Dr. Bianco's lecture, I found some points I want to expose about this plot.
+The first impression about this plot is amazing! It is interactive, has a lot of informations to show us and it's very easy and intuitive to use. Studying Dr. Bianco's lecture, I found some points I want to expose about this plot.
 
 Good points:
-- Ticks and font size of ticks are appropriate
-- Well located legend
-- The plot look good at first sight
+- Lot of information but well structured and shown
+- Colors help to instantly see the difference/magnitude of difference between each month and year
+- Very rich database
+- Intuitive and exciting. It make you play for a while during the plot exploration.
 
 Attention points:
-- The first thing I looked for when I saw the plot the first time is the **caption**. I without help can't tell what is represented in this plot, because I have not enough background on it issue.
-- Probably the x and y label are incorrect. If you are aiming to represent in y label volts represented by units v, it shoud be **"volts (v)"**, the way it is represented on plot (volts/v) can lead to a general conclusion that the axis is representing volts divided by v (that it's not clear what variable it is). The same comment apply to x axis, and time/s.
-- Distraction / distortion: there's no need on using not straight axis
-- By Tufte rules: I could notice some 'Chart Junk' - the excessive and unnecessary use of graphical effects
-- A good example about the last point is: Remove to improve - http://i.imgur.com/RzYaLZg.gif
+- THe information provided when hover is the year and ratio, but I think it would be interesting if you show absolute numbers as well (unemployed people and total population). The ratio can be clarifiying at some moments, but it can be tricky in some situations, for example, two months of different years can have the same ratio, but totally different absolute values.
+- The colors choosen by this plot is not friendly to a speciffically kind of color blindness, the **Protanopia – Red-Green Color Blindness**. Here is a print of how a person with this type of color blindness can see your plot, you can notice that the dark green and dark red are almost the same.
+![sck408_plot cb - amy324](sck408_plot_review_cb.PNG)
 
-**General comment:** the plot do it's job by representing what it are made to represent, but it has a little bit of extra and not needed informations, specially on the trying to make it visually more interesting. The axis labels can lead to a confusing interpretation about what it is representing, and finally, there's no caption to explain what it is trying to represent and what interesting can be observed on this plot. 
+
+**General comment:** the plot is amazing! It is intuitive and very informative. Like all good things, we want more, so I think absolute values for each year and each month on hover would be a great improovement. And as an attention point, it is not friendly to color blindness Protanopia people.
+Congratulations, very good job!
 
