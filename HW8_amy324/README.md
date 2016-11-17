@@ -17,4 +17,5 @@ Protanopia color blindness.
 Assignment 2
 - Followed the instructions given on notebook for data wrangling of dataset 1, 2 and 3
 - Merged successfully the data
-- Got help on that from Victor Sette
+- We can observe that there is a correlation between increase of population and number of complaitns
+- Another observation is about the people who can afford a Broadband are less ikely to complain about an issue than people who can't afford that.
