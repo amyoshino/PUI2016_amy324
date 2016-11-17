@@ -19,3 +19,4 @@ Assignment 2
 - Merged successfully the data
 - We can observe that there is a correlation between increase of population and number of complaitns
 - Another observation is about the people who can afford a Broadband are less ikely to complain about an issue than people who can't afford that.
+- Got help from Victor Sette
